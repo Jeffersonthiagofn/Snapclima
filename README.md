@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O SnapClima é um app para ajudar através da sua localização ou nome do local inserido no campo de busca, mostrar a sensação térmica, velocidade do vento, umidade, o tempo em que o sol nasce e se põe em qualquer parte do mundo!
 
-- [Visite o projeto online](https://jeffersonthiagofn.github.io/Snapclima/)
+- <a href="https://jeffersonthiagofn.github.io/Snapclima/" target="_blank" rel="external">Visite o projeto online</a>
